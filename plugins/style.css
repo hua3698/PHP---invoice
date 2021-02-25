@@ -1,7 +1,6 @@
 body {
     font-family: "Open Sans", "Noto Sans TC", Arial, sans-serif;
-    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 80%);
-    background-size: 150% 150%;
+    background:bisque;
 }
 
 a:link {

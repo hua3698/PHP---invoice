@@ -2,7 +2,7 @@
 
 <body>
     <!-- 選單區 -->
-    <header class="bg-light">
+    <header class="bg-light shadow">
         <nav class="container navbar navbar-expand-lg navbar-light">
             <a href="index.php" class="navbar-brand text-dark">
                 <img src="image/favicon.ico" width="25px" class="pb-2 mr-2">統一發票紀錄與對獎
